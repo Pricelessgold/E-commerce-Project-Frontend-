@@ -29,22 +29,22 @@ A React-based e-commerce application that allows users to browse products, filte
 
 ## 📁 Project Structure
 
-
+```
 src/
 ├── components/
-│ ├── Header.jsx
-│ ├── Main.jsx
-│ ├── Products.jsx
-│ ├── ProductList.jsx
-│ ├── ProductCard.jsx
-│ ├── Filters.jsx
-│ └── Cart.jsx
+│   ├── Header.jsx
+│   ├── Main.jsx
+│   ├── Products.jsx
+│   ├── ProductList.jsx
+│   ├── ProductCard.jsx
+│   ├── Filters.jsx
+│   └── Cart.jsx
 ├── context/
-│ └── CartContext.jsx
+│   └── CartContext.jsx
 ├── App.jsx
 ├── main.jsx
 └── index.css
-
+```
 
 
 
