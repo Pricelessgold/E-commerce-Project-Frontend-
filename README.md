@@ -25,7 +25,7 @@ A React-based e-commerce application that allows users to browse products, filte
 - Tailwind CSS  
 - DummyJSON API  
 
----
+
 
 ## 📁 Project Structure
 
@@ -46,7 +46,7 @@ src/
 └── index.css
 
 
----
+
 
 ## 🔄 How It Works
 
@@ -55,7 +55,7 @@ src/
 - Cart state is managed globally using Context API  
 - Routing allows navigation between pages without reload  
 
----
+
 
 ## 🛠️ Installation
 
